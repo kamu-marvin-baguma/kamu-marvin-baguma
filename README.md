@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamu Marvin Kaguma</h1>
-<h3 align="center">A passionate Frontend <span style=' color: orangered;'>Developer</span>  from Uganda</h3>
+<h3 align="center">A passionate Frontend <span color='orangered'>Developer</span>  from Uganda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamu-marvin-baguma&label=Profile%20views&color=0e75b6&style=flat" alt="kamu-marvin-baguma" /> </p>
 
@@ -23,10 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamu-marvin-baguma&show_icons=true&locale=en" alt="kamu-marvin-baguma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamu-marvin-baguma&" alt="kamu-marvin-baguma" /></p>
-
-
-https://github-stats-alpha.vercel.app/api?username={your-github-kamu-marvin-baguma}&cc=000&tc=fff&ic=fff&bc=000
-
 
 
 Here are some ideas to get you started:
