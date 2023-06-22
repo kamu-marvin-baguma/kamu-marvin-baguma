@@ -3,11 +3,6 @@ I'm Kamu Marvin Baguma
 
 https://github-stats-alpha.vercel.app/api?username={your-github-kamu-marvin-baguma}&cc=000&tc=fff&ic=fff&bc=000
 
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color
-
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamu-marvin-baguma&hide=contribs,prs)
