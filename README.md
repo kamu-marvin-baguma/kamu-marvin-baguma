@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/marvinbaguma3" target="blank"><img src="https://img.shields.io/twitter/follow/marvinbaguma3?logo=twitter&style=for-the-badge" alt="marvinbaguma3" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,10 +28,6 @@
 https://github-stats-alpha.vercel.app/api?username={your-github-kamu-marvin-baguma}&cc=000&tc=fff&ic=fff&bc=000
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamu-marvin-baguma&hide=contribs,prs)
-<!--
-**kamu-marvin-baguma/kamu-marvin-baguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
