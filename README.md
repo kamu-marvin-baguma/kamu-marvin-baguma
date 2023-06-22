@@ -1,9 +1,5 @@
-### Hi there 👋,
-I'm Kamu Marvin Baguma
-
-
 <h1 align="center">Hi 👋, I'm Kamu Marvin Kaguma</h1>
-<h3 align="center">A passionate frontend developer from Uganda</h3>
+<h3 align="center">A passionate Frontend <span style=' color: orangered;'>Developer</span>  from Uganda</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamu-marvin-baguma&label=Profile%20views&color=0e75b6&style=flat" alt="kamu-marvin-baguma" /> </p>
 
